@@ -1,5 +1,10 @@
+import { useGSAP } from "@gsap/react";
+
 const GsapText = () => {
   // TODO: Implement gsap text animation
+  useGSAP(() => {
+    
+  })
 
   return (
     <main>
